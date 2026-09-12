@@ -1,0 +1,10 @@
+{
+  "description": "Discover and explore music through poetic phrases, emotional states, song analyses, iconic album art, and community stories, tailored for music enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
